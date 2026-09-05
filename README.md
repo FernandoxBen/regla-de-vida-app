@@ -2,6 +2,13 @@
 
 Pack completo para publicar la aplicación en GitHub Pages e instalarla en un teléfono.
 
+## Versión 2.0
+
+- Nuevo icono sencillo: una brújula moderna que orienta la vida hacia el bien, en petróleo, marfil y verde agua.
+- Recuperación segura si el almacenamiento local contiene datos dañados.
+- Navegación y paneles más accesibles mediante teclado y lectores de pantalla.
+- Actualización más fiable de la aplicación instalada, conservando el funcionamiento sin conexión.
+
 ## Publicar en GitHub Pages
 
 1. Crea un repositorio nuevo en GitHub.
