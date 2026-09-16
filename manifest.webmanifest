@@ -1,16 +1,16 @@
 {
   "name": "Regla de Vida",
   "short_name": "Regla",
-  "description": "Regla católica personal para crecer en oración, virtud y fidelidad mediante la Tregua, el Umbral y el Combate.",
+  "description": "Un camino católico de virtud: tu reto semanal, una práctica diaria y una guía para volver y seguir.",
   "lang": "es",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "background_color": "#07171c",
-  "theme_color": "#0a252c",
+  "background_color": "#f5f4ef",
+  "theme_color": "#123d37",
   "id": "./",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "categories": ["lifestyle", "productivity", "education"],
   "icons": [
     {

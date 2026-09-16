@@ -1,0 +1,2 @@
+const sharp=require('sharp');const path=require('node:path');const root=path.resolve(__dirname,'..');
+(async()=>{for(const [name,size] of [['icon-192',192],['icon-512',512],['icon-1024',1024],['icon-maskable-512',512],['apple-touch-icon',180]])await sharp(path.join(root,'icon.svg')).resize(size,size).flatten({background:'#173f35'}).png().toFile(path.join(root,name+'.png'));})().catch(e=>{console.error(e);process.exitCode=1;});
